@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T07:17:03.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="9QDH0Tm31Kqpdyhrg9G3" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T07:18:25.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="r6f6uYGtpBHIrz9x4SaB" version="19.0.0" type="github">
   <diagram id="W9si09yMB4ZbtkrbC8p9" name="Page-1">
     <mxGraphModel dx="1950" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,21 @@
         </mxCell>
         <mxCell id="OVVx17QON25WPXnOTCqt-29" value="VNet Peering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-30" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OVVx17QON25WPXnOTCqt-12" target="OVVx17QON25WPXnOTCqt-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="470" as="sourcePoint" />
+            <mxPoint x="-30" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="360" />
+              <mxPoint x="470" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-31" value="X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#CC0000;" vertex="1" connectable="0" parent="OVVx17QON25WPXnOTCqt-30">
+          <mxGeometry x="-0.0487" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
