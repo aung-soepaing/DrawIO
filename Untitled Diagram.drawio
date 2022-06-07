@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T13:27:01.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="4ULiaAUKlrxzVLXabunS" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T07:17:03.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="9QDH0Tm31Kqpdyhrg9G3" version="19.0.0" type="github">
   <diagram id="W9si09yMB4ZbtkrbC8p9" name="Page-1">
-    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1950" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OVVx17QON25WPXnOTCqt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="40" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-320" y="10" width="143.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-3" value="NonProd01 VNet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-5">
+          <mxGeometry x="33.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-5">
+          <mxGeometry width="33.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="10" width="123.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-8">
+          <mxGeometry width="33.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-7" value="NonProd02 Vnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-8">
+          <mxGeometry x="23.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="80" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-10" value="AKS Nodes Subnet: 10.16.128.224/28&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="60" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="130" width="24.71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="130" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-220" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-18">
+          <mxGeometry x="8" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-14" value="Pod01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-18">
+          <mxGeometry y="30" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-150" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-19">
+          <mxGeometry x="8" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-17" value="Pod02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OVVx17QON25WPXnOTCqt-19">
+          <mxGeometry y="30" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-20" value="Pod Subnet 10.244.0.0/16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="140" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#990000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OVVx17QON25WPXnOTCqt-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="130" as="sourcePoint" />
+            <mxPoint x="-160.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-22" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="90" width="30.97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-24" value="ARKS UAT DB Subnet 10.10.168.192/27" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400.37" y="120" width="53.91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="24.71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-27" value="ARKS DB Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454.28" y="135" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-28" value="" style="shape=link;html=1;rounded=0;strokeColor=#990000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVVx17QON25WPXnOTCqt-1" target="OVVx17QON25WPXnOTCqt-2">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="100" y="159" as="sourcePoint" />
+            <mxPoint x="200" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVVx17QON25WPXnOTCqt-29" value="VNet Peering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
