@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T03:42:36.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HStYCIdMkvWvfAlQyN7M" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T03:45:36.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lds1Wkv6rvL5aAkXcSsj" version="21.6.3" type="github">
   <diagram name="Page-1" id="p7AqGDqLSS3fxnfkDhti">
-    <mxGraphModel dx="1834" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="-12" y="50" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6vk0d98QOJqQDT9VrW9C-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-220" y="245" width="100" height="75" as="geometry" />
+          <mxGeometry x="-220" y="225" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="6vk0d98QOJqQDT9VrW9C-29" value="" style="group" vertex="1" connectable="0" parent="6vk0d98QOJqQDT9VrW9C-25">
           <mxGeometry x="15" width="70" height="75" as="geometry" />
@@ -90,16 +90,6 @@
         </mxCell>
         <mxCell id="6vk0d98QOJqQDT9VrW9C-23" value="User&lt;br style=&quot;font-size: 12px;&quot;&gt;(internal)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="6vk0d98QOJqQDT9VrW9C-28">
           <mxGeometry x="1.8520000000000039" y="24.663333333333355" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6vk0d98QOJqQDT9VrW9C-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.729;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" edge="1" parent="1" source="6vk0d98QOJqQDT9VrW9C-27" target="6vk0d98QOJqQDT9VrW9C-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="300" as="sourcePoint" />
-            <mxPoint x="-10" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-120" y="279" />
-              <mxPoint x="-120" y="257" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="6vk0d98QOJqQDT9VrW9C-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1" target="6vk0d98QOJqQDT9VrW9C-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,6 +132,18 @@
             <mxPoint x="180" y="510" as="sourcePoint" />
             <mxPoint x="240" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6vk0d98QOJqQDT9VrW9C-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.786;exitY=-0.075;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" edge="1" parent="1" source="6vk0d98QOJqQDT9VrW9C-27" target="6vk0d98QOJqQDT9VrW9C-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="320" as="sourcePoint" />
+            <mxPoint x="-20" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6vk0d98QOJqQDT9VrW9C-43" value="Blue Arrow - Traffic through CheckPoint Harmony Connect&lt;br&gt;Black Arrow - Traffic through Britoil Office Network (no encryption)&lt;br&gt;Green Arrow - Traffic through FortiVPN (no encryption)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-281" y="80" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6vk0d98QOJqQDT9VrW9C-44" value="Britoil Users (SG + DXB) traffic to TM Master Application" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="35" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
