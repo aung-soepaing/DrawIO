@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T04:01:21.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="unFbZ-WGYO4YG5lNclKX" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T04:03:15.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="APh1y8H-Hsxzkv4PkWs8" version="21.6.6" type="github">
   <diagram id="CAy6h7JlMK9Nz8kqikin" name="Page-1">
-    <mxGraphModel dx="9143" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9196" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3436,37 +3436,13 @@
           <mxGeometry x="-7058" y="7230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D2OYuwHZMns-GUhPdhtm-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-6680" y="7241.12" width="220" height="210.65" as="geometry" />
+          <mxGeometry x="-6680" y="7280" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-49" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="-6663" y="7328.0599999999995" width="50" height="48" as="geometry" />
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-58" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SignalR.svg;" vertex="1" parent="1">
+          <mxGeometry x="-6666" y="7325" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-50" value="nginx controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-6680" y="7308.0599999999995" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6530" y="7298.12" width="50" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-52" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="D2OYuwHZMns-GUhPdhtm-51">
-          <mxGeometry y="30" width="50" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-53" value="Twine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D2OYuwHZMns-GUhPdhtm-51">
-          <mxGeometry width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6683" y="7251.12" width="84" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-55" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Kubernetes_Services.svg;" vertex="1" parent="D2OYuwHZMns-GUhPdhtm-54">
-          <mxGeometry x="50" width="34" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-56" value="AKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D2OYuwHZMns-GUhPdhtm-54">
-          <mxGeometry width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D2OYuwHZMns-GUhPdhtm-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D2OYuwHZMns-GUhPdhtm-49" target="D2OYuwHZMns-GUhPdhtm-52">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-6580" y="7381.12" as="sourcePoint" />
-            <mxPoint x="-6530" y="7331.12" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-59" value="SignalR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-6676" y="7280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
