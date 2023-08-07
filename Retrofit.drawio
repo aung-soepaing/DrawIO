@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T04:03:15.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="APh1y8H-Hsxzkv4PkWs8" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T04:06:14.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ED8Ty6o3QmxNxBNKwPrU" version="21.6.6" type="github">
   <diagram id="CAy6h7JlMK9Nz8kqikin" name="Page-1">
-    <mxGraphModel dx="9196" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8956" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3443,6 +3443,33 @@
         </mxCell>
         <mxCell id="D2OYuwHZMns-GUhPdhtm-59" value="SignalR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-6676" y="7280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2377" y="6658" width="32.65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-61" value="ARKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2390.68" y="6637.35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-62" value="ARK API (Webserver)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2540" y="6662.35" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-2560" y="6598" width="240" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-64" value="L&amp;amp;S VNet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2570" y="6570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-66" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="-2898" y="6642" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-67" value="SagarmathaAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2928" y="6690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-2998" y="6600" width="268" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="D2OYuwHZMns-GUhPdhtm-69" value="Sagarmatha VNet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3007.54" y="6570" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
